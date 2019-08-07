@@ -1,0 +1,5 @@
+package org.sid.enumeration;
+
+public enum EtatDent {
+	DEFAULT, ABSENT,EXTRACTION,TRAITEE,CARIEE,EN_COUR_DE_TRAITEMENT,EN_ETAT_DE_RACINE;
+}
