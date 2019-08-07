@@ -109,7 +109,7 @@ public class JwtSpringSecurityApplication implements CommandLineRunner {
 
 		String xx = bufferRead.readLine();
 		qsd = xx.toCharArray();
-		ArrayList<Integer> ascii = new ArrayList<Integer>();
+		ArrayList<Integer> ascii = new ArrayList<Integer>();	
 		*/
 
 		
